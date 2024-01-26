@@ -1,4 +1,4 @@
-![MasterHead](https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4)
+![MasterHead](https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001)
 
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
