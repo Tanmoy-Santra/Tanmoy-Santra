@@ -1,4 +1,4 @@
-![MasterHead](https://i.pinimg.com/originals/a2/64/74/a264749dbd39e8dc39db72812802e419.gif)
+![MasterHead](https://drive.google.com/file/d/12tYdiaWDXpU43sK1gCpZAeGx58l6_125/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
 <img align="right" alt="arnab" width="200" src="https://media.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif">
