@@ -1,10 +1,9 @@
+<img src='https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001
+'/>
 
-
-[![Video Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://openseauserdata.com/files/c99e9df986f7df04b8972dd420349ce8.mp4#t=0.001)
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
-<img align="right" alt="arnab" width="200" src="https://media.tenor.com/P5DB2iGAecsAAAAi/peach-cat.gif">
 
 <h3 align="left">Connect with me:</h3>
 
