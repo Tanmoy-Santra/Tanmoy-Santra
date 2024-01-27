@@ -1,5 +1,5 @@
 <div>
-<img height="200" src='https://i.giphy.com/wwg1suUiTbCY8H8vIA.webp'/>
+<img height="200" src='https://i.giphy.com/wwg1suUiTbCY8H8vIA.gif'/>
 </div>
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
