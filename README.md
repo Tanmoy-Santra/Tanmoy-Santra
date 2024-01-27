@@ -1,4 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/your_video_id_here/0.jpg)]("https://www.youtube.com/watch?v=it-jSj7hA_Y&list=PLp2zTInxCVPSO4f1RxgVnUUTgnarc8f2e&index=7")
+[![Watch the video](https://img.youtube.com/vi/PLp2zTInxCVPSO4f1RxgVnUUTgnarc8f2e/0.jpg)]("https://youtu.be/it-jSj7hA_Y?list=PLp2zTInxCVPSO4f1RxgVnUUTgnarc8f2e")
 
 
 
