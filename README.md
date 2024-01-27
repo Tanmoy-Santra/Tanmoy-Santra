@@ -1,8 +1,4 @@
-[![Watch the video](https://img.youtube.com/vi/PLp2zTInxCVPSO4f1RxgVnUUTgnarc8f2e/0.jpg)]("https://youtu.be/it-jSj7hA_Y?list=PLp2zTInxCVPSO4f1RxgVnUUTgnarc8f2e")
-
-
-
-
+![giphy](https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/d636f194-b387-4a78-bcf0-0f7cb434c9e8)
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
