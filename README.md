@@ -1,5 +1,6 @@
+<div>
 <img src='https://i.giphy.com/wwg1suUiTbCY8H8vIA.webp'/>
-
+</div>
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
 
