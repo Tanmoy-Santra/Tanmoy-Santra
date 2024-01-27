@@ -1,6 +1,6 @@
-<div height="100">
+
 ![giphy](https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/d636f194-b387-4a78-bcf0-0f7cb434c9e8)
-</div>
+
 
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
