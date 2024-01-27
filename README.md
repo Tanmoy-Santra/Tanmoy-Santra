@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate Developer</h3>
 
 ## About me :
-<p>Hi Everyone, I am Tanmoy Santra from  West Bengal, India. pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering .</p>
+#  Hi Everyone, I am Tanmoy Santra from  West Bengal, India. pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering .
   part from coding, some other activities that I love to do!
   - Playing Cricket
   - Playing Online Games
