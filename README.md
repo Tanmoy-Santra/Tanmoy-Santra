@@ -1,5 +1,4 @@
-<img src='https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ3eGFjajRzeGV6dHlvcTd1amU3ZzVyN2JpcHBzNjlhZ3VuNm8zcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif'/>
-
+<img src='https://i.giphy.com/wwg1suUiTbCY8H8vIA.webp'/>
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
