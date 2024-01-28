@@ -8,7 +8,7 @@
 
 
   <div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+  <div style="inline": 1;">
   <h1> About me :</h1><hr>
 Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelor of Technology (B.Tech)<br>
   degree in Computer Science and Engineering .<br>
@@ -17,7 +17,7 @@ Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelo
   - Playing Online Games<br>
   - Watch Movies 
   </div>
-  <div style="flex: 1;">
+  <div style="inline: 1;">
     <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4" ></img>
   </div>
 </div>
