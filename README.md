@@ -10,11 +10,11 @@
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
   <h1> About me :<h1><hr>
-<p>Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering .<br>
+Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering .<br>
   part from coding, some other activities that I love to do!<br>
   - Playing Cricket<br>
   - Playing Online Games<br>
-  - Watch Movies <br> <p>
+  - Watch Movies 
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4"></img>
