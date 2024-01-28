@@ -14,7 +14,7 @@
   part from coding, some other activities that I love to do!<br>
   - Playing Cricket<br>
   - Playing Online Games<br>
-  - Watch Movies <br> 
+  - Watch Movies <br> <p>
   </div>
   <div style="flex: 1;">
     <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4"></img>
