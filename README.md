@@ -10,7 +10,8 @@
   <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
   <h1> About me :</h1><hr>
-Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering .<br>
+Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelor of Technology (B.Tech)<br>
+  degree in Computer Science and Engineering .<br>
   part from coding, some other activities that I love to do!<br>
   - Playing Cricket<br>
   - Playing Online Games<br>
