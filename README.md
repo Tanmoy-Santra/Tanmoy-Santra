@@ -1,18 +1,26 @@
+![pngegg (6)](https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/6fb6338b-0d21-4d76-b6a2-6b430f705a33)
 
-![giphy](https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/d636f194-b387-4a78-bcf0-0f7cb434c9e8)
 
 
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-## About me :
+
+  <div style="display: flex; align-items: center;">
+  <div style="flex: 1;">
+  ## About me :
 ###  Hi Everyone, I am Tanmoy Santra from  West Bengal, India. pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering .
   part from coding, some other activities that I love to do!
   - Playing Cricket
   - Playing Online Games
-  - Watch Movies
-  
+  - Watch Movies  
+  </div>
+  <div style="flex: 1;">
+  ![pngegg (6)](https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/6fb6338b-0d21-4d76-b6a2-6b430f705a33)   
+  </div>
+</div>
+
 
 <h3 align="left">Connect with me:</h3>
 
