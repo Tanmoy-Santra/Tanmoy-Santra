@@ -18,7 +18,7 @@
     - Watch Movies
   </div>
   <div style="flex: 1;">
-    <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/blob/main/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4.png" height="200px" width="200px">
+    <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4" height="200px" width="200px">
   </div>
 </div>
 
