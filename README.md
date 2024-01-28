@@ -7,7 +7,7 @@
 <h3 align="center">A Passionate Developer</h3>
 
 
- <div style="display: flex; align-items: center; flex-direction: row;">
+ <div style="display: flex; align-items: center; flex-direction: column;">
   <div style="flex: 1;">
     <h1> About me :</h1><hr>
     Hi Everyone, I am Tanmoy Santra from West Bengal, India.<br>
