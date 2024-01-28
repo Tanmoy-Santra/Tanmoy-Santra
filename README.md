@@ -8,7 +8,7 @@
 
 
  <div style="display: flex; align-items: center; flex-direction: column;">
-  <div style="flex: 1;">
+  <span style="flex: 1;">
     <h1> About me :</h1><hr>
     Hi Everyone, I am Tanmoy Santra from West Bengal, India.<br>
     Pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering.<br>
