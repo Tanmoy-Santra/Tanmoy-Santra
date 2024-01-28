@@ -7,21 +7,21 @@
 <h3 align="center">A Passionate Developer</h3>
 
 
-  <div style="display: flex; align-items: center;">
-  <div style="inline": 1;">
-  <h1> About me :</h1><hr>
-Hi Everyone, I am Tanmoy Santra from  West Bengal, India.<br> pursuing a Bachelor of Technology (B.Tech)<br>
-  degree in Computer Science and Engineering .<br>
-  part from coding, some other activities that I love to do!<br>
-  - Playing Cricket<br>
-  - Playing Online Games<br>
-  - Watch Movies 
+ <div style="display: flex; align-items: center; flex-direction: row;">
+  <div style="flex: 1;">
+    <h1> About me :</h1><hr>
+    Hi Everyone, I am Tanmoy Santra from West Bengal, India.<br>
+    Pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering.<br>
+    Apart from coding, some other activities that I love to do!<br>
+    - Playing Cricket<br>
+    - Playing Online Games<br>
+    - Watch Movies
   </div>
-  <div style="inline: 1;">
-    <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4" height="200px" width="200
-      px" ></img>
+  <div style="flex: 1;">
+    <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/blob/main/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4.png" height="200px" width="200px">
   </div>
 </div>
+
 
 
 <h3 align="left">Connect with me:</h3>
