@@ -23,14 +23,10 @@
 </div>
 
 <div float="left">
-  <div> <h1> About me :</h1><hr>
-    Hi Everyone, I am Tanmoy Santra from West Bengal, India.<br>
-    Pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering.<br>
-    Apart from coding, some other activities that I love to do!<br>
-    - Playing Cricket<br>
-    - Playing Online Games<br>
-    - Watch Movies</div>
-<div>  <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4"  height="200px" width="200px" /></div>
+ <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4"  height="200px" width="200px" /></div>
+
+  
+ <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4"  height="200px" width="200px" /></div>
 
 </div>
 
