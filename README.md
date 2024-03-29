@@ -10,12 +10,13 @@
  <div style="display: flex; align-items: center; flex-direction: column;">
   <span style="flex: 1;">
     <h1> About me :</h1><hr>
-    Hi Everyone, I am Tanmoy Santra from West Bengal, India.<br>
-    Pursuing a Bachelor of Technology (B.Tech) degree in Computer Science and Engineering.<br>
-    Apart from coding, some other activities that I love to do!<br>
-    - Playing Cricket<br>
-    - Playing Online Games<br>
-    - Watch Movies
+   <p>Passionate coder with expertise in a variety of programming languages and technologies. Proficient in C, C++, Java, and PHP, with a strong foundation in web development encompassing HTML, CSS, JavaScript, and React. Experienced in database management using SQL, ensuring efficient data storage and retrieval.
+
+🔧 Skilled in developing dynamic and responsive web applications, leveraging modern frameworks and libraries to create intuitive user interfaces.
+
+🚀 Committed to continuous learning and staying updated with the latest trends in software development. Excited to collaborate on challenging projects and contribute innovative solutions to the tech community.
+
+Let's build something amazing together! 💡</p>
   </div>
   <br/>   
   <br/>   
