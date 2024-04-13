@@ -7,16 +7,26 @@
 <h3 align="center">A Passionate Developer</h3>
 
 
- <div style="display: flex; align-items: center; flex-direction: column;">
-  <span style="flex: 1;">
-    <h1> About me :</h1><hr>
-   <p>Passionate coder with expertise in a variety of programming languages and technologies. Proficient in C, C++, Java, and PHP, with a strong foundation in web development encompassing HTML, CSS, JavaScript, and React. Experienced in database management using SQL, ensuring efficient data storage and retrieval.
+## 👨🏻‍💻 About Me:
 
-🔧 Skilled in developing dynamic and responsive web applications, leveraging modern frameworks and libraries to create intuitive user interfaces.
+<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
 
-🚀 Committed to continuous learning and staying updated with the latest trends in software development. Excited to collaborate on challenging projects and contribute innovative solutions to the tech community.
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-tanmoy.netlify.app/)**
 
-Let's build something amazing together! 💡</p>
+- 🔭 I’m currently working on `Something Intresting`.
+
+- 🌱 I’m currently learning `MERN Stack`
+
+- 👯 I’m looking to collaborate for `Dev Projects`
+
+- 🤔 I’m looking for help with `Competitive Programming`
+
+- 💬 Ask me about anything, Except Maths :sweat_smile:
+
+- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
+
+- ⚡ Fun fact: I waste most of my time playing games & cricket
+
   </div>
   <br/>   
   <br/>   
