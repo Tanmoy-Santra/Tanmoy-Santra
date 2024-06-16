@@ -9,7 +9,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/f707740f-e7b7-402e-a4a2-ce7e2a863d5e
+<img  src="file:///C:/Users/tanmo/OneDrive/Desktop/6th%20sem/YT/giphy.webp
 " height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website](https://portfolio-tanmoy.netlify.app/)**
