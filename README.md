@@ -1,5 +1,6 @@
-
-![ezgif-3-1f5f5e8270](https://github.com/user-attachments/assets/0fe02269-78ec-4819-814d-d19dbba96454)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0fe02269-78ec-4819-814d-d19dbba96454" alt="Image">
+</p>
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
