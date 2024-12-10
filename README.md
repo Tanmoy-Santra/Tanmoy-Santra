@@ -1,8 +1,5 @@
 
-![ezgif-3-a866b5bb05](https://github.com/user-attachments/assets/ee170fb1-5d16-41ff-a84c-fea352c03237)
-
-
-
+![ezgif-3-1f5f5e8270](https://github.com/user-attachments/assets/0fe02269-78ec-4819-814d-d19dbba96454)
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
