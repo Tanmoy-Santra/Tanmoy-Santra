@@ -7,10 +7,10 @@
 
 
 ## 👨🏻‍💻 About Me:
-
+<p align="center">
 <img  src="file:///C:/Users/tanmo/OneDrive/Desktop/6th%20sem/YT/giphy.webp
 " height="290px" align="right" />
-
+</p>
 - 🙋‍♂️ All about me is at **[My Website](https://portfolio-tanmoy.netlify.app/)**
 
 - 🔭 I’m currently working on `Something Intresting`.
