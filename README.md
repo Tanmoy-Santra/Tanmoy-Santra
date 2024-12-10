@@ -1,4 +1,4 @@
-![pngegg (6)](https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/6fb6338b-0d21-4d76-b6a2-6b430f705a33)
+![pngegg (6)](https://tenor.com/en-GB/view/working-from-home-computer-homework-gif-13271998)
 
 
 
