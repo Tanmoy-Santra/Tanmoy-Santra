@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0fe02269-78ec-4819-814d-d19dbba96454" alt="Image">
+  <img src="
+https://github.com/user-attachments/assets/79c09563-1e85-450f-a865-2665b18a7ffc
+" alt="Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
