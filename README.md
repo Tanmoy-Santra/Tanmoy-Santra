@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/79c09563-1e85-450f-a865-2665b18a7ffc" alt="Image">
+  <img src="https://c.tenor.com/SxJQcg2-UGkAAAAd/tenor.gif" alt="Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
