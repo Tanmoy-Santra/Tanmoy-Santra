@@ -1,6 +1,4 @@
-<img  src="https://c.tenor.com/SxJQcg2-UGkAAAAd/tenor.gif
-" height="290px" align="right" />
-
+![tenor](https://github.com/user-attachments/assets/1525cc1a-7c6c-477a-94a2-c711cf298c7a)
 
 
 
