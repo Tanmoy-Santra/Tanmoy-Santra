@@ -14,9 +14,9 @@
   <br/>   
   <br/>   
   <br/>   
-  <div style="flex: 1;">
+<!--   <div style="flex: 1;">
     <img src="https://github.com/Tanmoy-Santra/Tanmoy-Santra/assets/123796923/40c5f155-620e-4961-a643-a6f8f02424a4" height="300px" width="300px" margin-left="100px">
-  </div>
+  </div> -->
 </div>
 
 
