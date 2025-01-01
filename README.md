@@ -12,7 +12,7 @@
 <img  src="file:///C:/Users/tanmo/OneDrive/Desktop/6th%20sem/YT/giphy.webp
 " height="290px" align="right" />
 </p>
-- 🙋‍♂️ Learn more about me at <a href="https://portfolio-tanmoy.netlify.app/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Tanmoy.tech-9146FF.svg?&style=for-the-badge&logo=appveyor&logoColor=white" height="30px" /></a>
+- 🙋‍♂️ Learn more about me at <a href="https://portfolio-tanmoy.netlify.app/" target="_blank">My Website</a>
 
 - 🔭 I’m currently working on `Something Intresting`.
 
