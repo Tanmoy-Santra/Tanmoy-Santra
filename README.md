@@ -5,28 +5,10 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
 <p align="center">📧 tanmoysantra911@gmail.com</p>
-
-
-## 👨🏻‍💻 About Me:
-<p align="center">
-<img  src="file:///C:/Users/tanmo/OneDrive/Desktop/6th%20sem/YT/giphy.webp
-" height="290px" align="right" />
+<p>🙋‍♂️Learn more about me at <a href="https://portfolio-tanmoy.netlify.app/" target="_blank">My Website</a>
 </p>
-- 🙋‍♂️Learn more about me at <a href="https://portfolio-tanmoy.netlify.app/" target="_blank">My Website</a>
 
-- 🔭 I’m currently working on `Something Intresting`.
 
-- 🌱 I’m currently learning `MERN Stack`
-
-- 👯 I’m looking to collaborate for `Dev Projects`
-
-- 🤔 I’m looking for help with `Competitive Programming`
-
-- 💬 Ask me about anything, Except Maths :sweat_smile:
-
-- 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
-
-- ⚡ Fun fact: I waste most of my time playing games & cricket
 
   </div>
   <br/>   
