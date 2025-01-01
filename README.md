@@ -4,6 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
+<p align="center">✉ tanmoysantra911@gmail.com</p>
 
 
 ## 👨🏻‍💻 About Me:
