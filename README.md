@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Tanmoy Santra</h1>
 <h3 align="center">A Passionate Developer</h3>
 <p align="center">📧 tanmoysantra911@gmail.com</p>
-<p align="center">🙋‍♂️Learn more about me at <a href="https://portfolio-tanmoy.netlify.app/" target="_blank">My Website</a>
+<p align="center">🙋‍♂️Learn more about me at <a href="https://tanmoysantra-portfolio.vercel.app/" target="_blank">My Website</a>
 </p>
 
 
