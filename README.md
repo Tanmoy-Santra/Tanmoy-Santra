@@ -40,11 +40,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=TanmoySantra&theme=radical&hide_border=true)  
 ![Tanmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanmoySantra&show_icons=true&theme=radical&hide_border=true)  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TanmoySantra&theme=radical&no-frame=true&column=7)  
-
-## 👀 Visitor Count  
-![Visitor Count](https://komarev.com/ghpvc/?username=TanmoySantra&label=Profile%20Views&color=red&style=flat)
-
 
 <h3 align="left">Languages and Tools:</h3>
 
